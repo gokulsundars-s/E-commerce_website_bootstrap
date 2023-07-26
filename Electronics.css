@@ -1,0 +1,90 @@
+img.mainarea{
+    padding-top: 90px;
+    height: 30%;
+    width: 30%;    
+}
+
+h1.mainarea{
+    color: rgb(50, 50, 50);
+    font-family:"Archivo";
+    font-size:50px;
+    line-height: 0.50;
+    text-align: center;
+    font-weight: 800;
+    padding-left: 500px;
+}
+
+h3.mainarea{
+    color: rgb(50, 50, 50);
+    font-family:"Archivo";
+    font-size:20px;
+    line-height: 0.50;
+    text-align: center;
+    font-weight: 800;
+    padding-left: 500px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family:"Archivo";
+    float: left;
+    width: 100%;
+    color: white;
+    background-color: white;
+  }
+
+.cardbtn {
+    color: rgb(100, 100, 100);
+    background-color:transparent;
+    font-size: 17px;
+    font-weight: 500;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+.cardbtn:hover, a:hover {
+  opacity: 0.7;
+}
+
+.groupcards{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 20x;
+}
+
+
+.title{
+    color: rgb(50, 50, 50);
+    font-family:"Archivo";
+    font-size:50px;
+    line-height: 0.50;
+    text-align: center;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+h6.footer{
+  color: rgb(150, 150, 150);
+  font-family:"Archivo";
+  font-size:17px;
+  text-align: center;
+  font-weight: 500;
+  text-align: center;
+}
+
+.btn-group{
+  position: relative;
+  left: 150px;
+}
